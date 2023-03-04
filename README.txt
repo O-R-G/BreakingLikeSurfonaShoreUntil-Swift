@@ -2,7 +2,7 @@
 
 Breaking Like Surf on a Shore Until
 Designed by David Reinfurt
-Version 1.1, macOS 10.10+, 2018
+Version 1.2, 2023
 
 --
 
